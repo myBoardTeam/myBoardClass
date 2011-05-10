@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.myBoardTeam.class</groupId>
+  <artifactId>myBoardClass</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>myBoard - Class</name>
+  <description>Digital White Board Application</description>
+  <organization>
+  	<name>myBoardTeam</name>
+  </organization>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.myBoardTeam.library</groupId>
+  		<artifactId>myBoardLibrary</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+</project>
